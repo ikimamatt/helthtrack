@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "24459761534",
+    "project_id": "bmitest-a1c99",
+    "storage_bucket": "bmitest-a1c99.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:24459761534:android:110e19d89297002335c52f",
+        "android_client_info": {
+          "package_name": "com.example.mamat_project"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDWy5q115sikBauId0m_8Anhb2X4XGsmCg"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
